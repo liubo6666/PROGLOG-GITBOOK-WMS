@@ -8,7 +8,7 @@
     "root": ".",
     "links": {
         "sidebar": {
-            "PROGLOG": "www.prolog-int.com"
+            "PROGLOG": "http://www.prolog-int.com/"
         }
     },
     "plugins": [
