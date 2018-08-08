@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [封面](README.md)
+* [产品使用说明](chapter1.md)
 * [1.系统部署手册](1xi-tong-bu-shu-shou-ce.md)
 * [2.用户操作手册](2xi-tong-cao-zuo-shou-ce.md)
   * [2.1系统更新介绍](2xi-tong-cao-zuo-shou-ce/21xi-tong-geng-xin-jie-shao.md)
@@ -20,3 +20,4 @@
       * [2.4.2.4组织机构权限管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/242xi-tong-quan-xian-guan-li/2424zu-zhi-ji-gou-quan-xian-guan-li.md)
 * [3.用户培训手册](3xi-tong-pei-xun-shou-ce.md)
 * [4.常见问题处理](4chang-jian-wen-ti-chu-li.md)
+
