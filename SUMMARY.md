@@ -14,9 +14,9 @@
       * 2.4.1.3菜单管理
       * 2.4.1.4参数管理
     * [2.4.2系统权限管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/242xi-tong-quan-xian-guan-li-jie-shao.md)
-      * 2.4.2.1组织机构管理
-      * 2.4.2.2角色管理
-      * 2.4.2.3用户管理
-      * 2.4.2.4组织机构权限管理
+      * [2.4.2.1组织机构管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/242xi-tong-quan-xian-guan-li-jie-shao/2421zu-zhi-ji-gou-guan-li.md)
+      * [2.4.2.2角色管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/242xi-tong-quan-xian-guan-li-jie-shao/2422jiao-se-guan-li.md)
+      * [2.4.2.3用户管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/242xi-tong-quan-xian-guan-li-jie-shao/2423yong-hu-guan-li.md)
+      * [2.4.2.4组织机构权限管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/242xi-tong-quan-xian-guan-li-jie-shao/2424zu-zhi-ji-gou-quan-xian-guan-li.md)
 * [3.用户培训手册](3xi-tong-pei-xun-shou-ce.md)
 
