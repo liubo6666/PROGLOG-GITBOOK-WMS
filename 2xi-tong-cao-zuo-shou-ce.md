@@ -4,10 +4,23 @@
 * B
 * C
 * 功能清单
-
-| 序号 | 一级菜单 | 二级菜单 | 功能点 | 功能描述 |
-| :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |
+<table border="1">
+<tr>
+<th>序号</th>
+<th>一级菜单</th>
+<th>二级菜单</th>
+<th>功能点</th>
+<th>功能描述</th>
+</tr>
+<tr>
+<td>row 1, cell 1</td>
+<td>row 1, cell 2</td>
+</tr>
+<tr>
+<td>row 2, cell 1</td>
+<td>row 2, cell 2</td>
+</tr>
+</table>
 
 
 
