@@ -8,7 +8,7 @@
     "root": ".",
     "links": {
         "sidebar": {
-            "Home": "http://www.zhangjikai.com"
+            "PROGLOG": "http://www.zhangjikai.com"
         }
     },
     "plugins": [
