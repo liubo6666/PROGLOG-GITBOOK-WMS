@@ -11,13 +11,29 @@
             "Home": "http://www.zhangjikai.com"
         }
     },
-    "plugins": [
-        "favicon@^0.0.2"
-       ],
-    "pluginsConfig": {
-        "favicon": {
-            "shortcut": "favicon.ico",
-            "bookmark": "favicon.ico"
-        }
-    }
+"plugins": [
+"-lunr",
+"-search",
+"-highlight",
+"-livereload",
+"search-plus@^0.0.11",
+"splitter@^0.0.8",
+"tbfed-pagefooter@^0.0.1",
+"expandable-chapters-small@^0.1.7",
+"favicon@^0.0.2"
+],
+"pluginsConfig": {
+"theme-default": {
+"showLevel": true
+},
+"tbfed-pagefooter": {
+"copyright": "Copyright © zhangjikai.com 2017",
+"modify_label": "该文件修订时间：",
+"modify_format": "YYYY-MM-DD HH:mm:ss"
+},
+"favicon": {
+"shortcut": "favicon.ico",
+"bookmark": "favicon.ico"
+}
+}
 }
