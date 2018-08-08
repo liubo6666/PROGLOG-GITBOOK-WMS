@@ -12,7 +12,7 @@
         }
     },
     "plugins": [
-        "favicon@^0.0.2",
+        "favicon@^0.0.2"
        ],
     "pluginsConfig": {
         "favicon": {
