@@ -14,7 +14,9 @@
 </tr>
 <tr>
 <td>1</td>
-<td>row 1, cell 2</td>
+<td>基础资料</td>
+<td>基础资料</td>
+<td>基础资料</td>
 </tr>
 <tr>
 <td>2</td>
