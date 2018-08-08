@@ -1,7 +1,7 @@
 {
-    "title": "GitBook 使用教程",
-    "description": "记录 GitBook 的配置和一些插件的使用",
-    "author": "zhangjikai",
+    "title": "普罗格WMS产品使用文档",
+    "description": "普罗格WMS产品使用文档说明",
+    "author": "bob",
     "output.name": "site",
     "language": "zh-hans",
     "gitbook": "3.2.3",
