@@ -32,9 +32,6 @@
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
-        "sectionx": {
-            "tag": "b"
-        },
         "favicon": {
             "shortcut": "favicon.ico",
             "bookmark": "favicon.ico"
