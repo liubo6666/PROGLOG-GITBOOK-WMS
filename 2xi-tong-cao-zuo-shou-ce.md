@@ -22,14 +22,14 @@
 <tr>
 <td>2</td>
 <td></td>
-<td>row 2, cell 2</td>
-<td>row 2, cell 2</td>
-<td>row 2, cell 2</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>进货作业</td>
-<td>row 2, cell 2</td>
+<td></td>
 <td>row 2, cell 2</td>
 <td>row 2, cell 2</td>
 </tr>
