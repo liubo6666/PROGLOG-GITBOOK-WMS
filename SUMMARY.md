@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [1.系统部署手册](1xi-tong-bu-shu-shou-ce.md)
-* [2.用户操作手册](1xi-tong-bu-shu-shou-ce/2xi-tong-cao-zuo-shou-ce.md)
+* [2.用户操作手册](2xi-tong-cao-zuo-shou-ce.md)
   * 2.1系统更新介绍
   * 2.2系统登录介绍
   * 2.3系统主窗体介绍
