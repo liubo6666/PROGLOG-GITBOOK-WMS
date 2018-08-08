@@ -30,33 +30,26 @@
 <td>3</td>
 <td>进货作业</td>
 <td></td>
-<td>row 2, cell 2</td>
-<td>row 2, cell 2</td>
+<td></td>
+<td></td>
 </tr>
 <td>3</td>
 <td>出货作业</td>
-<td>row 2, cell 2</td>
-<td>row 2, cell 2</td>
-<td>row 2, cell 2</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>退货作业</td>
-<td>row 2, cell 2</td>
-<td>row 2, cell 2</td>
-<td>row 2, cell 2</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>库内作业</td>
-<td>row 2, cell 2</td>
-<td>row 2, cell 2</td>
-<td>row 2, cell 2</td>
-</tr>
-<tr>
-<td>3</td>
-<td>系统管理</td>
-<td>帐套管理</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -70,32 +63,52 @@
 <tr>
 <td>3</td>
 <td>系统管理</td>
-<td>帐套管理</td>
+<td>公司资料维护</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>系统管理</td>
-<td>帐套管理</td>
+<td>菜单管理</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>系统管理</td>
-<td>帐套管理</td>
+<td>参数管理</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>系统管理</td>
-<td>帐套管理</td>
+<td>组织机构管理</td>
 <td></td>
 <td></td>
 </tr>
-
+<tr>
+<td>3</td>
+<td>系统管理</td>
+<td>角色管理</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>系统管理</td>
+<td>用户管理</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>系统管理</td>
+<td>组织机构权限管理</td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
 
