@@ -26,6 +26,76 @@
 <td>row 2, cell 2</td>
 <td>row 2, cell 2</td>
 </tr>
+<tr>
+<td>3</td>
+<td>进货作业</td>
+<td>row 2, cell 2</td>
+<td>row 2, cell 2</td>
+<td>row 2, cell 2</td>
+</tr>
+<td>3</td>
+<td>出货作业</td>
+<td>row 2, cell 2</td>
+<td>row 2, cell 2</td>
+<td>row 2, cell 2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>退货作业</td>
+<td>row 2, cell 2</td>
+<td>row 2, cell 2</td>
+<td>row 2, cell 2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>库内作业</td>
+<td>row 2, cell 2</td>
+<td>row 2, cell 2</td>
+<td>row 2, cell 2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>系统管理</td>
+<td>帐套管理</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>系统管理</td>
+<td>帐套管理</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>系统管理</td>
+<td>帐套管理</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>系统管理</td>
+<td>帐套管理</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>系统管理</td>
+<td>帐套管理</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>系统管理</td>
+<td>帐套管理</td>
+<td></td>
+<td></td>
+</tr>
+
 </table>
 
 
