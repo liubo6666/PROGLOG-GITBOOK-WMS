@@ -35,11 +35,6 @@
         "favicon": {
             "shortcut": "favicon.ico",
             "bookmark": "favicon.ico"
-        },
-        "terminal": {
-            "copyButtons": true,
-            "fade": false,
-            "style": "flat"
         }
     }
 }
