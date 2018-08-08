@@ -15,12 +15,11 @@
         "-highlight",
         "-livereload",
         "splitter@^0.0.8",
+        "tbfed-pagefooter@^0.0.1",
+        "expandable-chapters-small@^0.1.7",
         "favicon@^0.0.2"
     ],
     "pluginsConfig": {
-        "theme-default": {
-            "showLevel": true
-        },
         "tbfed-pagefooter": {
             "copyright": "",
             "modify_label": "该文件修订时间：",
