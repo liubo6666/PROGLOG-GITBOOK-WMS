@@ -13,11 +13,11 @@
 <th>功能描述</th>
 </tr>
 <tr>
-<td>row 1, cell 1</td>
+<td>1</td>
 <td>row 1, cell 2</td>
 </tr>
 <tr>
-<td>row 2, cell 1</td>
+<td>2</td>
 <td>row 2, cell 2</td>
 </tr>
 </table>
