@@ -10,9 +10,9 @@
   * [2.4系统管理介绍](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao.md)
     * [2.4.1系统配置管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/241xi-tong-pei-zhi-guan-li-jie-shao.md)
       * [2.4.1.1帐套管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/241xi-tong-pei-zhi-guan-li-jie-shao/2411zhang-tao-guan-li.md)
-      * 2.4.1.2公司资料管理
-      * 2.4.1.3菜单管理
-      * 2.4.1.4参数管理
+      * [2.4.1.2公司资料管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/241xi-tong-pei-zhi-guan-li-jie-shao/2412gong-si-zi-liao-guan-li.md)
+      * [2.4.1.3菜单管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/241xi-tong-pei-zhi-guan-li-jie-shao/2413cai-dan-guan-li.md)
+      * [2.4.1.4参数管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/241xi-tong-pei-zhi-guan-li-jie-shao/2414can-shu-guan-li.md)
     * [2.4.2系统权限管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/242xi-tong-quan-xian-guan-li.md)
       * [2.4.2.1组织机构管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/242xi-tong-quan-xian-guan-li/2421zu-zhi-ji-gou-guan-li.md)
       * [2.4.2.2角色管理](2xi-tong-cao-zuo-shou-ce/24xi-tong-guan-li-jie-shao/242xi-tong-quan-xian-guan-li/2422jiao-se-guan-li.md)
