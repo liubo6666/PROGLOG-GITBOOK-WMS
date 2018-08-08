@@ -22,7 +22,6 @@
         "expandable-chapters-small@^0.1.7",
         "favicon@^0.0.2",
        ],
-
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true
