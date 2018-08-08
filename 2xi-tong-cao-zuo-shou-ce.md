@@ -24,7 +24,6 @@
 <td>row 2, cell 2</td>
 <td>row 2, cell 2</td>
 <td>row 2, cell 2</td>
-<td>row 2, cell 2</td>
 </tr>
 </table>
 
