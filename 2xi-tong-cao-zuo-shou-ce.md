@@ -21,6 +21,7 @@
 </tr>
 <tr>
 <td>2</td>
+<td></td>
 <td>row 2, cell 2</td>
 <td>row 2, cell 2</td>
 <td>row 2, cell 2</td>
