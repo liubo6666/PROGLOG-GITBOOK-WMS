@@ -6,9 +6,9 @@
 * 功能清单
 <table border="1">
 <tr>
-<th width="50">序号</th>
-<th width="80">一级菜单</th>
-<th width="80">二级菜单</th>
+<th width="60">序号</th>
+<th width="100">一级菜单</th>
+<th width="100">二级菜单</th>
 <th width="80">功能点</th>
 <th width="400">功能描述</th>
 </tr>
