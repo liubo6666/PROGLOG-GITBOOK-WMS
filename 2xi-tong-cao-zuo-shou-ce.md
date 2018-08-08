@@ -6,11 +6,11 @@
 * 功能清单
 <table border="1">
 <tr>
-<th width="30">序号</th>
-<th width="50">一级菜单</th>
-<th width="50">二级菜单</th>
+<th width="50">序号</th>
+<th width="80">一级菜单</th>
+<th width="80">二级菜单</th>
 <th width="80">功能点</th>
-<th width="300">功能描述</th>
+<th width="400">功能描述</th>
 </tr>
 <tr>
 <td>1</td>
