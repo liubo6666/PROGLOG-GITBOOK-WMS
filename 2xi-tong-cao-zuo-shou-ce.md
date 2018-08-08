@@ -17,6 +17,7 @@
 <td>基础资料</td>
 <td>业主资料</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>2</td>
