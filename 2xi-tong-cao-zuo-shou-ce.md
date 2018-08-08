@@ -112,6 +112,13 @@
 </tr>
 <tr>
 <td>3</td>
+<td rowspan="3">组织机构管理</td>
+<td>新增</td>
+<td>新增组织机构资料</td>
+</tr>
+
+<tr>
+<td>3</td>
 <td>组织机构权限管理</td>
 <td></td>
 <td></td>
